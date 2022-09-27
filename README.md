@@ -14,3 +14,4 @@ I also have several years of experience in the Adobe Suite - particularly, Light
 Some projects I've done for my classes are a text based galdiator game, an adventure game built in JavaFx, and an implementation of Connect 4 in C and Scheme.
 
 ![meme](https://pbs.twimg.com/media/FXZjMpTXgAMPTDC?format=jpg&name=medium)
+[<img src="https://pbs.twimg.com/media/FXZjMpTXgAMPTDC?format=jpg&name=medium" width="500"/>](https://pbs.twimg.com/media/FXZjMpTXgAMPTDC?format=jpg&name=medium)
